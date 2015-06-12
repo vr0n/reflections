@@ -1,0 +1,5 @@
+Why might you want to always pull changes manually rather than having Git 
+automatically stay up-to-date with your remote repository?
+
+In case I am experimenting on Github or someone else is tinkering on Github and I 
+was working it home. It would be obnoxious if I kept seeing their changes.
